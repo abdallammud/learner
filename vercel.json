@@ -1,0 +1,14 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "public/index.html",
+        "use": "@vercel/static"
+      },
+      {
+        "src": "api/courses.js",
+        "use": "@vercel/node"
+      }
+    ]
+  }
+  

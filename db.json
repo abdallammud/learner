@@ -1,0 +1,18 @@
+{
+    "courses": [
+      {
+        "title": "Cracking the Code: Demystifying Computer Viruses",
+        "author": "Prabh Kirpa Classes",
+        "details": "Empowering Users with Knowledge on Malware, Its Objectives, and How It Multiplies",
+        "updatedAt": "2023-09-30T21:00:00.000Z",
+        "description": {
+          "text": "Origin of the Name The term 'computer virus' is derived from biological viruses...",
+          "whoIsItFor": "Students, Business owners and General Public"
+        },
+        "requirements": ["Basic Computer Skills", "Basic understanding of cybersecurity principles"],
+        "link": "https://www.udemy.com/course/understanding-computer-viruses-meaning-purpose-spread/?couponCode=76E2C5FD14813FDD1453",
+        "category": "IT & Software > Network & Security > Cybersecurity Awareness"
+      }
+    ]
+  }
+  
